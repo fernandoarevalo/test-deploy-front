@@ -1,0 +1,35 @@
+img.logo {
+    
+}
+
+section {
+    max-width: 920px;
+    margin: 60px auto;
+}
+
+i {
+    margin-right: 8px;
+}
+
+a {
+    color: white;
+}
+
+.github-button {
+    display: none;
+}
+    
+.spacer {
+    flex: 1 1 auto;
+}
+
+@media only screen and (min-width: 600px){
+    .filters-form-fields {
+        width: initial;
+    }
+    
+    .github-button {
+        display: initial;
+    }
+
+}

@@ -1,0 +1,6 @@
+{
+  "apiUrl": "https://sffst-backend.herokuapp.com/api",
+  "tipoPolizasUrl": "https://sffst-backend.herokuapp.com/api/v1/tipo-polizas",
+  "tipoPolizaUrl": "https://sffst-backend.herokuapp.com/api/v1/tipo-poliza",
+  "polizaSeguroUrl": "https://sffst-backend.herokuapp.com/api/v1/poliza-seguro"
+}
